@@ -8,5 +8,6 @@ Display current directroy contents.
 	Long format
 	with user and group IDs displayed numerically
 	And hidden files (starting with.) 
-Create a script that creates a directory named my first directory in the /tmp/ directory.
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 Move the file betty from /tmp/ to /tmp/my_firsy_directory
+Delete the file betty
